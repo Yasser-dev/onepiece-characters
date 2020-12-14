@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/onepiece-characters/static/css/main.b3fcbca5.chunk.css",
+    "main.js": "/onepiece-characters/static/js/main.e6df54dd.chunk.js",
+    "main.js.map": "/onepiece-characters/static/js/main.e6df54dd.chunk.js.map",
+    "runtime-main.js": "/onepiece-characters/static/js/runtime-main.b5fcd973.js",
+    "runtime-main.js.map": "/onepiece-characters/static/js/runtime-main.b5fcd973.js.map",
+    "static/js/2.0506b94f.chunk.js": "/onepiece-characters/static/js/2.0506b94f.chunk.js",
+    "static/js/2.0506b94f.chunk.js.map": "/onepiece-characters/static/js/2.0506b94f.chunk.js.map",
+    "static/js/3.376f7d1e.chunk.js": "/onepiece-characters/static/js/3.376f7d1e.chunk.js",
+    "static/js/3.376f7d1e.chunk.js.map": "/onepiece-characters/static/js/3.376f7d1e.chunk.js.map",
+    "index.html": "/onepiece-characters/index.html",
+    "static/css/main.b3fcbca5.chunk.css.map": "/onepiece-characters/static/css/main.b3fcbca5.chunk.css.map",
+    "static/js/2.0506b94f.chunk.js.LICENSE.txt": "/onepiece-characters/static/js/2.0506b94f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/onepiece-characters/static/media/one-piece-font.951ce8e8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5fcd973.js",
+    "static/js/2.0506b94f.chunk.js",
+    "static/css/main.b3fcbca5.chunk.css",
+    "static/js/main.e6df54dd.chunk.js"
+  ]
+}
